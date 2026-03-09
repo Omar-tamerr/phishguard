@@ -205,7 +205,7 @@ PhishGuard AI helps red teams:
 ## 👨‍💻 Author
 
 **Omar Tamer**  
-Cybersecurity Researcher | Red Team | AI Security
+Cybersecurity Researcher | Red Team | Penetration Tester
 
 ---
 

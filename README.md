@@ -56,7 +56,7 @@
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/phishguard
+git clone https://github.com/Omar-tamerr/phishguard
 cd phishguard
 
 # Install dependencies
